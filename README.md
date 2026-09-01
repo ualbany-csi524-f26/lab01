@@ -1,6 +1,6 @@
 # lab01
 - Link to create your repository: https://github.com/ualbany-csi524-f26/repo-request/
-- Due Sep. 3, 2026
+- Due ~Sep. 3, 2026~ Sep. 7, 2026 (extended)
 - Final contents of your repository:
   - `screenshot.png`
 
